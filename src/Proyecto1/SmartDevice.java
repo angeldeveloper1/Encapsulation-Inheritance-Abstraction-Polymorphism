@@ -23,6 +23,7 @@ public class SmartDevice {
         this.year = year;
     }
 
+    // Creacion de metodo para imprimir mensaje titulo
     public void visualizarFunciones(){
         System.out.println("Visualización de funciones de SmartDevice");
     }

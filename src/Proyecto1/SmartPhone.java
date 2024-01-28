@@ -21,6 +21,7 @@ public class SmartPhone extends SmartDevice {
         this.gb = gb;
     }
 
+    // Creacion de metodo para imprimir mensaje titulo
     public void visualizarFunciones(){
         System.out.println("Visualización de funciones de SmartPhone");
     }

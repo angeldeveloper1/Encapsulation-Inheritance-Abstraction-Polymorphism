@@ -19,6 +19,7 @@ public class SmartWatch extends SmartDevice {
         this.resistenciaAgua = resistenciaAgua;
     }
 
+    // Creacion de metodo para imprimir mensaje titulo
     public void visualizarFunciones(){
         System.out.println("Visualización de funciones de SmartWatch");
     }
